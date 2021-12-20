@@ -1,0 +1,62 @@
+C:\Users\haml1\source\repos\Estetica\Estetica\bin\Debug\Estetica.exe
+C:\Users\haml1\source\repos\Estetica\Estetica\bin\Debug\Estetica.pdb
+C:\Users\haml1\source\repos\Estetica\Estetica\bin\Debug\Estetica.xml
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.vbprojAssemblyReference.cache
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.Citas.resources
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.Clientes.resources
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.Resources.resources
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.Principal.resources
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.Trabajadores.resources
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.vbproj.GenerateResource.cache
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.vbproj.CoreCompileInputs.cache
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.exe
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.xml
+C:\Users\haml1\source\repos\Estetica\Estetica\obj\Debug\Estetica.pdb
+C:\Users\haml1\Desktop\Estetica\Estetica\bin\Debug\Estetica.exe
+C:\Users\haml1\Desktop\Estetica\Estetica\bin\Debug\Estetica.pdb
+C:\Users\haml1\Desktop\Estetica\Estetica\bin\Debug\Estetica.xml
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.vbprojAssemblyReference.cache
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.Citas.resources
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.Clientes.resources
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.Resources.resources
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.Principal.resources
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.Trabajadores.resources
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.vbproj.GenerateResource.cache
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.vbproj.CoreCompileInputs.cache
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.exe
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.xml
+C:\Users\haml1\Desktop\Estetica\Estetica\obj\Debug\Estetica.pdb
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\bin\Debug\Estetica.exe
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\bin\Debug\Estetica.pdb
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\bin\Debug\Estetica.xml
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.vbprojAssemblyReference.cache
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.Citas.resources
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.Clientes.resources
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.Resources.resources
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.Principal.resources
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.Trabajadores.resources
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.vbproj.GenerateResource.cache
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.vbproj.CoreCompileInputs.cache
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.exe
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.xml
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.pdb
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\bin\Debug\System.Data.SQLite.dll
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\bin\Debug\System.Data.SQLite.xml
+C:\Users\esand\Desktop\Nueva carpeta (3)\Estetica\Estetica\obj\Debug\Estetica.vbproj.CopyComplete
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\bin\Debug\Estetica.exe
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\bin\Debug\Estetica.pdb
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\bin\Debug\Estetica.xml
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\bin\Debug\System.Data.SQLite.xml
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.vbprojAssemblyReference.cache
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.Citas.resources
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.Clientes.resources
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.Resources.resources
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.Principal.resources
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.Trabajadores.resources
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.vbproj.GenerateResource.cache
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.vbproj.CopyComplete
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.exe
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.xml
+C:\Users\cesar\Downloads\EsteticaFINAL\Estetica\Estetica\obj\Debug\Estetica.pdb
