@@ -10,6 +10,6 @@ Sistema para la administración de una estética con SQL.
 
 ---
 
-[![Sistema-Estetica-Cesarjub.gif](https://i.postimg.cc/Dz3MHxH6/Sistema-Estetica-Cesarjub.gif)](https://postimg.cc/TKQ0WJR5)
+[![Sistema-Estetica-Cesarjub.gif](https://i.postimg.cc/5NvGgcky/Sistema-Estetica-Cesarjub.gif)](https://postimg.cc/RNSXCYmx)
 
 [Cesarjub](https://github.com/Cesarjub) 🙂
